@@ -41,7 +41,7 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy)
 ```
   
-Box c52 is higher than box c39, meaning that there is a significant difference in data between the two boxplots. The bottom quartile of c52 is higher than the upper quartile of c39.
+Box c52 is higher than box c39, meaning that there is a significant difference in data between the two boxplots. The bottom quartile of c52 is higher than the upper quartile of c39. 
 
 ### Numerical Descriptive Results
 
