@@ -46,6 +46,11 @@ Box c52 is higher than box c39, meaning that there is a significant difference i
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+  
+  The top of the c39 box is its Q3 at 54.75. The bottom of the c52 box is its Q1 which is at 58. The bottom of the Q1 box is higher up than the Q3 box, representing the c39 box. The bottom of the c52 box is higher up than the top of the c39 box.
 
 ## Inferential Results
 
